@@ -20,6 +20,7 @@ directions, which makes the calculations manageable and underestimates
 the strength of the floor. This doesn’t lead to disaster though, instead it
 gives engineers a safety margin. Overestimating strength could be
 catastrophic, underestimating isn’t a problem.
+
 Engineers can do this because they understand their assumptions. They
 can intelligently decide how and when to simplify a problem, and they
 aren’t at risk of catastrophe.
